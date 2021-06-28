@@ -2,10 +2,10 @@
   "name": "check",
   "version": "1.0.0",
   "description": "",
-  "main": "src/index.js",
+  "main": "index.js",
   "scripts": {
-    "start-source": "node src/index.js",
-    "nexe": "cd src && nexe index.js --o executable --build"
+    "start-source": "node index.js",
+    "nexe": "nexe index.js --o executable --build"
   },
   "keywords": [],
   "author": "",
